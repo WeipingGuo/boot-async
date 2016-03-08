@@ -1,0 +1,9 @@
+
+---
+# server configuration
+server:
+  port: 8080
+
+
+# turn on auto-configured health indicator
+endpoints.health.sensitive: false
